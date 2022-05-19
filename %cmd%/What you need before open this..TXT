@@ -1,0 +1,1 @@
+-Windows (recommend ver. is 8, 8.1, 10, 11 or the version that support notepad powershell and cmd.)
