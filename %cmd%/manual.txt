@@ -1,0 +1,19 @@
+How to use cmd?
+Just like a regular cmd prompt
+just enter your name and your command to console.
+List of command.
+hello: say hello to you.
+endses: end the program in a correct way.
+none: none
+notepad: open windows notepads.
+openexe: open exe file.
+url: URL opener.
+reload: restart 
+info: time to open my real name to user lol.
+if you make uncorect spell, it will show a message
+"invalid synstax"
+What is runlog.log?
+a debug log 
+once you write command, name, blah,blah,blah 
+it will save log in this file
+and you can reset it by delete it.
