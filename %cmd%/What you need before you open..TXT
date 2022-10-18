@@ -1,0 +1,2 @@
+-Windows ONLY (the recommended version of windows is 10, 11 or the version that supports notepad Powershell and cmd.)
+-Python IDLE (ver 3.10 recommended, for the program to work correctly) 
